@@ -1,7 +1,5 @@
 package finalProject;
 
-//ShuxianShen_FinalProject_Menu
-
 import java.util.Scanner;
 
 public class Menu {

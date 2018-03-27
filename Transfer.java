@@ -1,7 +1,5 @@
 package finalProject;
 
-//ShuxianShen_FinalProject_Transfer
-
 import java.util.ArrayList;
 
 //lines order R B G BR PP Y PK O

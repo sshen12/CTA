@@ -1,5 +1,3 @@
-//ShuxianShen_FinalProject_CTAApplication
-
 public class CTAApplication {
 	public static void main(String[] args){
 		CTARoute route=new CTARoute();

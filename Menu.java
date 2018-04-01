@@ -1,4 +1,4 @@
-package finalProject;
+package cta;
 
 import java.util.Scanner;
 
